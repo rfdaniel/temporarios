@@ -1,5 +1,5 @@
 {
-    0 = {
+    0 : {
         "id":1,
         "tipo":"Lote",
         "responsavel":"Alberto Alves",
@@ -13,7 +13,7 @@
         "valor":50.000,
         "valorFormatado":"R$ 50.000"
     },
-    1 ={
+    1 : {
         "id":2,
         "tipo":"Lote",
         "responsavel":"Weslley Quadros",
