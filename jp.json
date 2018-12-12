@@ -1,0 +1,37 @@
+
+{
+	"data" : [
+		{
+			"nome":"TCE",
+			"endereco": "Palmas centro",
+			"senha": "Biblioteca",
+			"titulo":"Biblioteca",
+			"latitude": -10,
+			"longitude":-10 
+		},
+				{
+			"nome":"APINAJE",
+			"endereco": "Palmas centro",
+			"senha": "-",
+			"titulo":"Seturb",
+			"latitude": -10,
+			"longitude":-10 
+		},
+				{
+			"nome":"UFT",
+			"endereco": "Palmas centro",
+			"senha": "Biblioteca",
+			"titulo":"uft_academica",
+			"latitude": -10,
+			"longitude":-10 
+		},
+				{
+			"nome":"LANCHONETE",
+			"endereco": "Palmas centro",
+			"senha": "comidaboa",
+			"titulo":"TIA",
+			"latitude": -10,
+			"longitude":-10 
+		}
+	]
+}
